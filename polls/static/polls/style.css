@@ -1,0 +1,13 @@
+body {
+    background-color: yellowgreen;
+}
+
+
+li a {
+    color: red;
+    font-size: 20px;
+}
+
+ul li {
+    list-style: none;
+}
